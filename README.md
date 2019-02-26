@@ -19,4 +19,4 @@ User can have 3 trials and after three trials the game shows the user's highest 
 * After 10 seconds, the input fields are disabled.
 
 
-***The assigned requirements are fulfilled in this assignment.***
+
